@@ -1,4 +1,4 @@
-## HR_Attrition
+## HR_Attrition by SQL
 # 1.Average Attrition rate for all Departments
 # 2.Average Hourly rate of Male Research Scientist
 # 3.Attrition rate Vs Monthly income stats
